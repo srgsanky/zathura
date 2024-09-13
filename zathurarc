@@ -1,0 +1,20 @@
+set selection-clipboard clipboard
+
+# Show 2 pages per row
+set pages-per-row 2
+
+# Start with inverted color. https://www.reddit.com/r/linux4noobs/comments/gjl02k/zathura_start_in_color_invert_mode/
+set recolor true
+
+# Retain color of images https://www.reddit.com/r/unixporn/comments/b1oo03/oc_i_created_a_script_to_set_the_colors_of/
+set recolor-keephue true
+
+set recolor-lightcolor "#111111"
+set recolor-darkcolor "#cccccc"
+
+
+set font "monospace normal 18"
+
+set window-height 1000
+set window-width 1600
+
