@@ -18,3 +18,6 @@ set font "monospace normal 18"
 set window-height 1000
 set window-width 1600
 
+# Trigger reload by monitoring the file.
+# Defines the file monitor backend used to check for changes in files
+set filemonitor "signal"
